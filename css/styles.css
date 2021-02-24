@@ -10124,6 +10124,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
+  background-size: cover;
   object-fit: cover;
 }
 header.masthead .masthead-subheading {
