@@ -10123,7 +10123,6 @@ header.masthead {
   background-image: url("../assets/img/fundo.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center center;
   object-fit: fill;
 }
 header.masthead .masthead-subheading {
