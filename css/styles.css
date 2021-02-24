@@ -10126,6 +10126,7 @@ header.masthead {
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+  object-fit: cover
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
