@@ -10123,8 +10123,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: ;
-  max-width: 100%;
+  background-size: contain;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
