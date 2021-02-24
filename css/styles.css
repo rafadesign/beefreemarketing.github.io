@@ -10122,9 +10122,9 @@ header.masthead {
   color: #fff;
   background-image: url("../assets/img/fundo.png");
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-position: center center;
-  object-fit: none;
+  object-fit: fill;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
