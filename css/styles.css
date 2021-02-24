@@ -10122,6 +10122,7 @@ header.masthead {
   color: #fff;
   background-image: url("../assets/img/fundo.png");
   background-repeat: no-repeat;
+  background-attachment: scroll;
   background-position: center center;
   background-size: fill;
 }
