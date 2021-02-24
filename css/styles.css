@@ -10124,7 +10124,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: img-fluid;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
