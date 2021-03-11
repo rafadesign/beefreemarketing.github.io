@@ -10042,12 +10042,12 @@ img::-moz-selection {
 }
 
 .btn-social1 {
-  height: 3rem;
-  width: 3rem;
+  height: 2.5rem;
+  width: 2.5rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 0;
+  padding: 90;
   border-radius: 100%;
   color: white;
 }
