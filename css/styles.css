@@ -2433,7 +2433,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #fed136;
+  background-color: #ffe270;
   border-color: #fed136;
 }
 .btn-primary:hover {
@@ -10037,17 +10037,6 @@ img::-moz-selection {
   align-items: center;
   justify-content: center;
   padding: 0;
-  border-radius: 100%;
-  color: white;
-}
-
-.btn-social1 {
-  height: 2.5rem;
-  width: 2.5rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 90;
   border-radius: 100%;
   color: white;
 }
