@@ -9984,10 +9984,19 @@ p {
   padding: 6rem 0;
 }
 .page-section h2.section-heading {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   margin-top: 0;
   margin-bottom: 1rem;
 }
+.section-contato {
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: white;
+}
+.section-contato:hover {
+  color: #ffedad;
+}  
 .page-section h3.section-subheading {
   font-size: 1rem;
   font-weight: 400;
