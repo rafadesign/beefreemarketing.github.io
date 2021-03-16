@@ -2431,6 +2431,13 @@ fieldset:disabled a.btn {
   pointer-events: none;
 }
 
+.btn-primary1 {
+  margin-top: 100px;
+  color: #202020;
+  background-color: #ffe270;
+  border-color: #ffe270;
+  height: 50px;
+}
 .btn-primary {
   color: #202020;
   background-color: #ffe270;
