@@ -4985,9 +4985,12 @@ a.badge-dark:focus, a.badge-dark.focus {
   display: flex;
   align-items: flex-start;
 }
+.media-left {
+  margin-top: -100px;
 
+}
 .media-body {
-  flex: 1;
+  flex: -20;
 }
 
 .list-group {
