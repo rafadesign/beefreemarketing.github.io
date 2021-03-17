@@ -571,6 +571,7 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
+  margin-top: -1rem;
   margin-right: -0.75rem;
   margin-left: -0.75rem;
 }
